@@ -4,6 +4,8 @@ Bienvenido a nuestro repositorio del segundo desafio practico DSM L
 > [!IMPORTANT]
 >  Ejercicios A desarollar<br>
 > APP para un restaurante de comida mexicana<br>
+> Nombre de nuestra aplicación: TacoJoy <br>
+
 
 > <h2>:dart:Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
