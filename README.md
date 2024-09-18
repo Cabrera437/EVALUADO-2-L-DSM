@@ -30,7 +30,8 @@ Bienvenido a nuestro repositorio del segundo desafio practico DSM L
      </tr> 
   <tr align="center"> 
     <td>Kotlin</td> 
-    <td>Android Studio</td> 
+    <td>Firebase</td> 
+     <td>Android Studio</td> 
   </tr> 
 </table>
 
