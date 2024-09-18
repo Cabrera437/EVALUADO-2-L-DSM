@@ -38,6 +38,6 @@ Bienvenido a nuestro repositorio del segundo desafio practico DSM L
 
 > [Video 📽](https://drive.google.com/file/d/1BL3sAWIyvYfo8f_TncKGw1InahKWJ3DK/view?usp=sharing)<br>
 
-> [Evaluado 2 DSM L 📖](https://github.com/Cabrera437/EVALUADO-2-L-DSM/blob/master/documento/Desafio2DSML.pdf)
+> [Evaluado DSM L 📃](https://github.com/Cabrera437/EVALUADO-2-L-DSM/blob/master/documento/Desafio2DSML.pdf)
 
 
